@@ -5,7 +5,7 @@ Yannis M. Assael, Brendan Shillingford, Shimon Whiteson, Nando de Freitas
 
 ## Links
 
-\- [arXiv pre-print](arXiv preprint arXiv:1611.01599)
+\- [arXiv pre-print](https://arxiv.org/abs/1611.01599)
 
 
 ## Bibtex
